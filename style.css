@@ -1,0 +1,9 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+}
+h1{
+    font-size: 72px;
+}
